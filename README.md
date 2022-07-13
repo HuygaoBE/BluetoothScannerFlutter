@@ -1,6 +1,6 @@
 # Bluetooth Scanner Flutter
 
-[Language VietNamese]
+**_[Language VietNamese]_**
 
 ## 🔑Features
 
