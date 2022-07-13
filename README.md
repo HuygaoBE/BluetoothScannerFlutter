@@ -11,6 +11,7 @@
 ## 🌏Other Social Media
 
 📌[GitHub](https://github.com/HuygaoBE)
+📌[FaceBook](https://www.facebook.com/profile.php?id=100007416721622)
 
 
 <!-- ##Link Example
