@@ -4,8 +4,8 @@
 
 Ứng dụng Bluetooth Scanner Flutter đơn giản có thể nhận diện các gói quảng cáo Advertisement, có thể nhận diện các dạng quảng cáo như, quét quảng cáo không phản hồi, quảng cáo phản hồi...nhận diện dữ liệu quảng cáo dành riêng cho nhà sản xuất, nhận diện url...
 
-![](https://github.com/HuygaoBE/BluetoothScannerFlutter/blob/main/images/find_device.PNG)
-![](https://github.com/HuygaoBE/BluetoothScannerFlutter/blob/main/images/show_adv.PNG)
+![](https://github.com/HuygaoBE/BluetoothScannerFlutter/blob/main/images/find_device.PNG =100x100)
+![](https://github.com/HuygaoBE/BluetoothScannerFlutter/blob/main/images/show_adv.PNG =100x100)
 
 ## 🔑Features
 Ứng dụng này có thể quét các gói quảng cáo, do các thiết bị bluetooth phát ra và phản hồi các gói tin quảng cáo yêu cầu quét phản hồi.
