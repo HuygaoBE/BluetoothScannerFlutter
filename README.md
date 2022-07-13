@@ -38,7 +38,4 @@ Các class interface của thư viện [Flutter_blue](https://pub.dev/packages/f
 
 📌[FaceBook](https://www.facebook.com/profile.php?id=100007416721622)
 
-
-<!-- ##Link Example
-
-[CodeTime](https://github.com/HuygaoBE) -->
+Vui lòng đánh giá sao cho các dự án của tôi trên GitHub, để tôi có thêm động lực để tạo ra nhiều dự án hữu ích cho cộng đồng.
