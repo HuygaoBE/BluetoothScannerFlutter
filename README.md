@@ -4,11 +4,11 @@
 
 ## 🔑Features
 
-### 🔧Installation setup
+## 🔧Installation setup
 
-#### 📘Main libraries used
+## 📘Main libraries used
 
-##### 🌏Other Social Media
+## 🌏Other Social Media
 
 📌[GitHub](https://github.com/HuygaoBE)
 
