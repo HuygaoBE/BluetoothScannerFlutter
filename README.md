@@ -1,5 +1,16 @@
 # Bluetooth Scanner Flutter
 
 [Language VietNamese]
-##Link Example
-[CodeTime](https://github.com/HuygaoBE)
+
+## 🔑Features
+
+### 🔧Installation setup
+
+#### 📘Main libraries used
+
+##### 🌏Other Social Media
+
+
+<!-- ##Link Example
+
+[CodeTime](https://github.com/HuygaoBE) -->
